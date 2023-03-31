@@ -3,7 +3,7 @@
 
 Name:           python-%{pypi_name}
 Version:        1.11.1
-Release:        1
+Release:        2
 Summary:        Type hints (PEP 484) support for the Sphinx autodoc extension
 Group:          Development/Python
 License:        MIT
