@@ -6,7 +6,7 @@
 
 Name:			python-%{module}
 Version:		3.1.0
-Release:		1
+Release:		2
 Summary:		Type hints support for the Sphinx autodoc extension
 Group:			Development/Python
 License:		MIT
