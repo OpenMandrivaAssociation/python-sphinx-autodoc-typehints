@@ -4,7 +4,7 @@
 %bcond tests 1
 
 Name:			python-sphinx-autodoc-typehints
-Version:		3.10.5
+Version:		3.13.0
 Release:		1
 Summary:		Type hints support for the Sphinx autodoc extension
 Group:			Development/Python
